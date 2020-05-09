@@ -1,3 +1,5 @@
 # Group-1b
 
-hi
+Contributors:
+Riaz Khan
+Wyatt Arbon
